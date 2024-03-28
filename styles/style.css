@@ -1,0 +1,26 @@
+.first-section{
+    color:white;
+    background-color: teal;
+    text-align: center;
+    width: 1400px;
+    padding: 5px 0px 5px 0px;
+}
+#second-section {
+    font-size: 18px;
+}
+#second-section p{
+    font-size: 22px;
+    font-weight: 600;
+}
+.third-section {
+    background-color:greenyellow;
+    padding-left:20px;
+    padding-top: 15px;
+    border: 10px solid sandybrown;
+}
+.third-section h2{
+    color:darkblue;
+    border: 1px solid #dddd;
+    border-color: blueviolet;
+
+}
